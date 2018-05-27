@@ -46,3 +46,6 @@ Number of lines of code in guessinggame.sh is:  -l guessinggame.sh
 Bash Script to guess number of Files in a Directory
 Date and Time at which make was run is:
 Number of lines of code in guessinggame.sh is: -l guessinggame.sh
+Bash Script to guess number of Files in a Directory
+Date and Time at which make was run is: 
+Number of lines of code in guessinggame.sh is:  -l guessinggame.sh
